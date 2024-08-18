@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jiayi-s
-- 👀 I’m interested in statistical genetics, clinical trials, and healthcare data science. 
-- 🌱 I’m currently learning basics data engineering.  
-- 💞️ I’m looking to collaborate on more applications of newly-developed statistical genetic methods.
-- 📫 How to reach me shenjiay@usc.edu
+- 👀 I’m interested in data science and AI in healthcare. My previous reserach focus is on statistical genetics.
+- 📫 Connect me on [Linkedin](https://www.linkedin.com/in/jiayi-sylvia-shen/) . 
 
 <!---
 jiayi-s/jiayi-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
